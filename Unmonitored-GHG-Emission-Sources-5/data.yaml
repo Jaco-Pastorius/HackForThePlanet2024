@@ -1,0 +1,12 @@
+names:
+- Potential Lime Manufacturing Facility
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: unmonitored-ghg-emission-sources
+  url: https://universe.roboflow.com/hackfortheplanet/unmonitored-ghg-emission-sources/dataset/5
+  version: 5
+  workspace: hackfortheplanet
+test: ../test/images
+train: Unmonitored-GHG-Emission-Sources-5/train/images
+val: Unmonitored-GHG-Emission-Sources-5/valid/images
